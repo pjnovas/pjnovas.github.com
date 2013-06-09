@@ -35,6 +35,11 @@ h2 {
   right: 10px;
   top: 120px;
 }
+.github-star {
+  position: absolute;
+  right: 10px;
+  top: 160px;
+}
 .block {
   border-left: solid 1px silver;
   padding: 0 10px;
