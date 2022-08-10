@@ -8,16 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'La bitácora de Pablo',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://pjnovas.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'pjnovas', // Usually your GitHub org/user name.
-  projectName: 'pjnovas.github.com', // Usually your repo name.
+  organizationName: 'pjnovas',
+  projectName: 'pjnovas.github.com',
 
   i18n: {
     defaultLocale: 'es-AR',
