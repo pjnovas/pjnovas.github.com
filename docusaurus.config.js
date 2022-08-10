@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'pjnovas', // Usually your GitHub org/user name.
-  projectName: 'pjnovas.github', // Usually your repo name.
+  projectName: 'pjnovas.github.com', // Usually your repo name.
 
   i18n: {
     defaultLocale: 'es-AR',
