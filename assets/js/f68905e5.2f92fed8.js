@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpjnovas=self.webpackChunkpjnovas||[]).push([[666],{3413:a=>{a.exports=JSON.parse('{"label":"bienvenida","permalink":"/tags/bienvenida","allTagsPath":"/tags","count":1}')}}]);
