@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>La bitácora de Pablo Blog</title>
-        <link>https://your-docusaurus-test-site.com/</link>
+        <link>https://pjnovas.xyz/</link>
         <description>La bitácora de Pablo Blog</description>
         <lastBuildDate>Wed, 10 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>es-AR</language>
         <item>
             <title><![CDATA[Hola!]]></title>
-            <link>https://your-docusaurus-test-site.com/hola</link>
+            <link>https://pjnovas.xyz/hola</link>
             <guid>hola</guid>
             <pubDate>Wed, 10 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Te doy la bienvenida a una suerte de bitácora personal, un dump de mi cabeza directo a internet, un espacio de logging y documentación, de tutoriales con pasos ordenados a ideas de proyectos en general.]]></description>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/</id>
+    <id>https://pjnovas.xyz/</id>
     <title>La bitácora de Pablo Blog</title>
     <updated>2022-08-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/"/>
+    <link rel="alternate" href="https://pjnovas.xyz/"/>
     <subtitle>La bitácora de Pablo Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <icon>https://pjnovas.xyz/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Hola!]]></title>
         <id>hola</id>
-        <link href="https://your-docusaurus-test-site.com/hola"/>
+        <link href="https://pjnovas.xyz/hola"/>
         <updated>2022-08-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Te doy la bienvenida a una suerte de bitácora personal, un dump de mi cabeza directo a internet, un espacio de logging y documentación, de tutoriales con pasos ordenados a ideas de proyectos en general.]]></summary>
         <content type="html"><![CDATA[<p>Te doy la bienvenida a una suerte de bitácora personal, un <em>dump</em> de mi cabeza directo a internet, un espacio de <em>logging</em> y documentación, de tutoriales con pasos ordenados a ideas de proyectos en general.  </p><p>Cuando digo <em>proyectos</em> hablo desde algún pedazo de código (software) hasta un artefacto de madera o un juguete impreso en 3D con algún integrado y leds. </p><p>Este espacio no es particular de una disciplina o un tema pero si es específico en <em>las cosas que hago</em>. Es un lugar donde voy a documentar y compartir las experiencias de las locuras en las que me embarco. </p><p>Me considero un <em>hacker</em>, en el sentido mas amateur de la palabra, un curioso que saca muchos tornillos y crea nuevas cosas. Pero estoy lejos de ser buen escritor o redactor por lo que este blog también irá mutando y mi expresión irá mejorando (al menos eso espero).</p><p>Para cerrar, este mismo blog esta hecho con herramientas open source y va a estar siempre abierto para chusmear (es un sitio estático generado con <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">docusaurus</a>) y colgado de un <a href="https://github.com/pjnovas/pjnovas.github.com" target="_blank" rel="noopener noreferrer">repo en github</a></p>]]></content>
