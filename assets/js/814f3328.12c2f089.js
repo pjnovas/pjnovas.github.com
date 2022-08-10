@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpjnovas=self.webpackChunkpjnovas||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hola!","permalink":"/hola"}]}')}}]);
