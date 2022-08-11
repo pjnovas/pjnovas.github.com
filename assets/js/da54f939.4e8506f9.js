@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpjnovas=self.webpackChunkpjnovas||[]).push([[511],{7516:e=>{e.exports=JSON.parse('{"permalink":"/tags/about","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

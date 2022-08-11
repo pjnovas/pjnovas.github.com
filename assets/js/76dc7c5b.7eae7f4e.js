@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpjnovas=self.webpackChunkpjnovas||[]).push([[986],{8822:a=>{a.exports=JSON.parse('{"label":"about","permalink":"/tags/about","allTagsPath":"/tags","count":1}')}}]);

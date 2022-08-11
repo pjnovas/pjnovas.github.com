@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpjnovas=self.webpackChunkpjnovas||[]).push([[964],{8866:a=>{a.exports=JSON.parse('[{"label":"hola","permalink":"/tags/hola","count":1}]')}}]);
