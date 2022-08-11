@@ -7,7 +7,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'La bitácora de Pablo',
-  tagline: 'Dinosaurs are cool',
   url: 'https://pjnovas.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -46,7 +45,7 @@ const config = {
         title: 'La bitácora de Pablo',
         logo: {
           alt: 'Blog Logo',
-          src: 'img/logo.svg',
+          src: 'img/rick.png',
         },
         items: [],
       },
